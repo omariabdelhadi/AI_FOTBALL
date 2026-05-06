@@ -1,0 +1,206 @@
+/* frontend/src/App.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0d1117;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ── CARDS ── */
+.card {
+  background-color: #1a1a2e;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+  border: 1px solid #2d2d4e;
+}
+
+.card h2 {
+  color: #00d4aa;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+}
+
+/* ── BUTTONS ── */
+.btn {
+  background-color: #00d4aa;
+  color: #000000;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: #00b894;
+}
+
+.btn:disabled {
+  background-color: #444;
+  cursor: not-allowed;
+}
+
+/* ── SELECTS ── */
+select {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  border: 1px solid #00d4aa;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+/* ── INPUTS ── */
+input[type="range"] {
+  width: 100%;
+  accent-color: #00d4aa;
+}
+
+input[type="number"] {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  border: 1px solid #00d4aa;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+/* ── TABLES ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
+
+th {
+  background-color: #00d4aa;
+  color: #000000;
+  padding: 12px;
+  text-align: left;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #2d2d4e;
+}
+
+tr:hover {
+  background-color: #2d2d4e;
+}
+
+/* ── METRICS ── */
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.metric {
+  background-color: #1a1a2e;
+  border: 1px solid #00d4aa;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+}
+
+.metric-label {
+  color: #00d4aa;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+}
+
+.metric-value {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* ── GRID ── */
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* ── LOADING ── */
+.loading {
+  text-align: center;
+  color: #00d4aa;
+  padding: 40px;
+  font-size: 1.2rem;
+}
+
+/* ── ERROR ── */
+.error {
+  color: #e74c3c;
+  background-color: #2d1a1a;
+  border: 1px solid #e74c3c;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+/* ── SUCCESS ── */
+.success {
+  color: #00d4aa;
+  background-color: #1a2d2a;
+  border: 1px solid #00d4aa;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+/* ── BADGE ── */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.badge-green  { background-color: #00d4aa; color: #000; }
+.badge-yellow { background-color: #f39c12; color: #000; }
+.badge-red    { background-color: #e74c3c; color: #fff; }
+.badge-blue   { background-color: #4a9eff; color: #fff; }
+
+/* ── PAGE TITLE ── */
+.page-title {
+  color: #00d4aa;
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+
+.page-subtitle {
+  color: #888;
+  margin-bottom: 24px;
+}
