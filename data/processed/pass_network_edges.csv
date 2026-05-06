@@ -1,0 +1,931 @@
+from,to,weight
+G. Donnarumma,A. Hakimi,1.0
+G. Donnarumma,Marquinhos,1.5
+G. Donnarumma,M. Škriniar,1.0
+G. Donnarumma,L. Hernández,1.0
+G. Donnarumma,W. Zaïre-Emery,1.0
+G. Donnarumma,Vitinha,15.5
+G. Donnarumma,Lee Kang-In,1.0
+G. Donnarumma,O. Dembélé,1.0
+G. Donnarumma,K. Mbappé,1.0
+G. Donnarumma,B. Barcola,1.0
+G. Donnarumma,Danilo Pereira,34.95
+G. Donnarumma,C. Ndour,1.0
+G. Donnarumma,Carlos Soler,17.55
+G. Donnarumma,Marco Asensio,20.4
+G. Donnarumma,N. Lemina,1.0
+G. Donnarumma,L. Kurzawa,1.0
+G. Donnarumma,M. Ugarte,1.0
+G. Donnarumma,Ismaël Gharbi,27.5
+G. Donnarumma,H. Ekitike,1.0
+G. Donnarumma,Fabián Ruiz,1.0
+G. Donnarumma,A. Letellier,1.0
+G. Donnarumma,Gonçalo Ramos,1.0
+G. Donnarumma,Keylor Navas,12.0
+G. Donnarumma,Achraf Hakimi,28.55
+G. Donnarumma,Sergio Ramos,41.8
+G. Donnarumma,Juan Bernat,27.05
+G. Donnarumma,Renato Sanches,40.5
+G. Donnarumma,Lionel Messi,27.15
+G. Donnarumma,Kylian Mbappé,17.3
+G. Donnarumma,Neymar,30.4
+A. Hakimi,G. Donnarumma,1.0
+A. Hakimi,Marquinhos,1.5
+A. Hakimi,M. Škriniar,1.0
+A. Hakimi,L. Hernández,1.0
+A. Hakimi,W. Zaïre-Emery,1.0
+A. Hakimi,Vitinha,15.5
+A. Hakimi,Lee Kang-In,1.0
+A. Hakimi,O. Dembélé,1.0
+A. Hakimi,K. Mbappé,1.0
+A. Hakimi,B. Barcola,1.0
+A. Hakimi,Danilo Pereira,34.95
+A. Hakimi,C. Ndour,1.0
+A. Hakimi,Carlos Soler,17.55
+A. Hakimi,Marco Asensio,20.4
+A. Hakimi,N. Lemina,1.0
+A. Hakimi,L. Kurzawa,1.0
+A. Hakimi,M. Ugarte,1.0
+A. Hakimi,Ismaël Gharbi,27.5
+A. Hakimi,H. Ekitike,1.0
+A. Hakimi,Fabián Ruiz,1.0
+A. Hakimi,A. Letellier,1.0
+A. Hakimi,Gonçalo Ramos,1.0
+A. Hakimi,Keylor Navas,12.0
+A. Hakimi,Achraf Hakimi,28.55
+A. Hakimi,Sergio Ramos,41.8
+A. Hakimi,Juan Bernat,27.05
+A. Hakimi,Renato Sanches,40.5
+A. Hakimi,Lionel Messi,27.15
+A. Hakimi,Kylian Mbappé,17.3
+A. Hakimi,Neymar,30.4
+Marquinhos,G. Donnarumma,1.5
+Marquinhos,A. Hakimi,1.5
+Marquinhos,M. Škriniar,1.5
+Marquinhos,L. Hernández,1.5
+Marquinhos,W. Zaïre-Emery,1.5
+Marquinhos,Vitinha,16.0
+Marquinhos,Lee Kang-In,1.5
+Marquinhos,O. Dembélé,1.5
+Marquinhos,K. Mbappé,1.5
+Marquinhos,B. Barcola,1.5
+Marquinhos,Danilo Pereira,35.45
+Marquinhos,C. Ndour,1.5
+Marquinhos,Carlos Soler,18.05
+Marquinhos,Marco Asensio,20.9
+Marquinhos,N. Lemina,1.5
+Marquinhos,L. Kurzawa,1.5
+Marquinhos,M. Ugarte,1.5
+Marquinhos,Ismaël Gharbi,28.0
+Marquinhos,H. Ekitike,1.5
+Marquinhos,Fabián Ruiz,1.5
+Marquinhos,A. Letellier,1.5
+Marquinhos,Gonçalo Ramos,1.5
+Marquinhos,Keylor Navas,12.5
+Marquinhos,Achraf Hakimi,29.05
+Marquinhos,Sergio Ramos,42.3
+Marquinhos,Juan Bernat,27.55
+Marquinhos,Renato Sanches,41.0
+Marquinhos,Lionel Messi,27.65
+Marquinhos,Kylian Mbappé,17.8
+Marquinhos,Neymar,30.9
+M. Škriniar,G. Donnarumma,1.0
+M. Škriniar,A. Hakimi,1.0
+M. Škriniar,Marquinhos,1.5
+M. Škriniar,L. Hernández,1.0
+M. Škriniar,W. Zaïre-Emery,1.0
+M. Škriniar,Vitinha,15.5
+M. Škriniar,Lee Kang-In,1.0
+M. Škriniar,O. Dembélé,1.0
+M. Škriniar,K. Mbappé,1.0
+M. Škriniar,B. Barcola,1.0
+M. Škriniar,Danilo Pereira,34.95
+M. Škriniar,C. Ndour,1.0
+M. Škriniar,Carlos Soler,17.55
+M. Škriniar,Marco Asensio,20.4
+M. Škriniar,N. Lemina,1.0
+M. Škriniar,L. Kurzawa,1.0
+M. Škriniar,M. Ugarte,1.0
+M. Škriniar,Ismaël Gharbi,27.5
+M. Škriniar,H. Ekitike,1.0
+M. Škriniar,Fabián Ruiz,1.0
+M. Škriniar,A. Letellier,1.0
+M. Škriniar,Gonçalo Ramos,1.0
+M. Škriniar,Keylor Navas,12.0
+M. Škriniar,Achraf Hakimi,28.55
+M. Škriniar,Sergio Ramos,41.8
+M. Škriniar,Juan Bernat,27.05
+M. Škriniar,Renato Sanches,40.5
+M. Škriniar,Lionel Messi,27.15
+M. Škriniar,Kylian Mbappé,17.3
+M. Škriniar,Neymar,30.4
+L. Hernández,G. Donnarumma,1.0
+L. Hernández,A. Hakimi,1.0
+L. Hernández,Marquinhos,1.5
+L. Hernández,M. Škriniar,1.0
+L. Hernández,W. Zaïre-Emery,1.0
+L. Hernández,Vitinha,15.5
+L. Hernández,Lee Kang-In,1.0
+L. Hernández,O. Dembélé,1.0
+L. Hernández,K. Mbappé,1.0
+L. Hernández,B. Barcola,1.0
+L. Hernández,Danilo Pereira,34.95
+L. Hernández,C. Ndour,1.0
+L. Hernández,Carlos Soler,17.55
+L. Hernández,Marco Asensio,20.4
+L. Hernández,N. Lemina,1.0
+L. Hernández,L. Kurzawa,1.0
+L. Hernández,M. Ugarte,1.0
+L. Hernández,Ismaël Gharbi,27.5
+L. Hernández,H. Ekitike,1.0
+L. Hernández,Fabián Ruiz,1.0
+L. Hernández,A. Letellier,1.0
+L. Hernández,Gonçalo Ramos,1.0
+L. Hernández,Keylor Navas,12.0
+L. Hernández,Achraf Hakimi,28.55
+L. Hernández,Sergio Ramos,41.8
+L. Hernández,Juan Bernat,27.05
+L. Hernández,Renato Sanches,40.5
+L. Hernández,Lionel Messi,27.15
+L. Hernández,Kylian Mbappé,17.3
+L. Hernández,Neymar,30.4
+W. Zaïre-Emery,G. Donnarumma,1.0
+W. Zaïre-Emery,A. Hakimi,1.0
+W. Zaïre-Emery,Marquinhos,1.5
+W. Zaïre-Emery,M. Škriniar,1.0
+W. Zaïre-Emery,L. Hernández,1.0
+W. Zaïre-Emery,Vitinha,15.5
+W. Zaïre-Emery,Lee Kang-In,1.0
+W. Zaïre-Emery,O. Dembélé,1.0
+W. Zaïre-Emery,K. Mbappé,1.0
+W. Zaïre-Emery,B. Barcola,1.0
+W. Zaïre-Emery,Danilo Pereira,34.95
+W. Zaïre-Emery,C. Ndour,1.0
+W. Zaïre-Emery,Carlos Soler,17.55
+W. Zaïre-Emery,Marco Asensio,20.4
+W. Zaïre-Emery,N. Lemina,1.0
+W. Zaïre-Emery,L. Kurzawa,1.0
+W. Zaïre-Emery,M. Ugarte,1.0
+W. Zaïre-Emery,Ismaël Gharbi,27.5
+W. Zaïre-Emery,H. Ekitike,1.0
+W. Zaïre-Emery,Fabián Ruiz,1.0
+W. Zaïre-Emery,A. Letellier,1.0
+W. Zaïre-Emery,Gonçalo Ramos,1.0
+W. Zaïre-Emery,Keylor Navas,12.0
+W. Zaïre-Emery,Achraf Hakimi,28.55
+W. Zaïre-Emery,Sergio Ramos,41.8
+W. Zaïre-Emery,Juan Bernat,27.05
+W. Zaïre-Emery,Renato Sanches,40.5
+W. Zaïre-Emery,Lionel Messi,27.15
+W. Zaïre-Emery,Kylian Mbappé,17.3
+W. Zaïre-Emery,Neymar,30.4
+Vitinha,G. Donnarumma,15.5
+Vitinha,A. Hakimi,15.5
+Vitinha,Marquinhos,16.0
+Vitinha,M. Škriniar,15.5
+Vitinha,L. Hernández,15.5
+Vitinha,W. Zaïre-Emery,15.5
+Vitinha,Lee Kang-In,15.5
+Vitinha,O. Dembélé,15.5
+Vitinha,K. Mbappé,15.5
+Vitinha,B. Barcola,15.5
+Vitinha,Danilo Pereira,49.45
+Vitinha,C. Ndour,15.5
+Vitinha,Carlos Soler,32.05
+Vitinha,Marco Asensio,34.9
+Vitinha,N. Lemina,15.5
+Vitinha,L. Kurzawa,15.5
+Vitinha,M. Ugarte,15.5
+Vitinha,Ismaël Gharbi,42.0
+Vitinha,H. Ekitike,15.5
+Vitinha,Fabián Ruiz,15.5
+Vitinha,A. Letellier,15.5
+Vitinha,Gonçalo Ramos,15.5
+Vitinha,Keylor Navas,26.5
+Vitinha,Achraf Hakimi,43.05
+Vitinha,Sergio Ramos,56.3
+Vitinha,Juan Bernat,41.55
+Vitinha,Renato Sanches,55.0
+Vitinha,Lionel Messi,41.65
+Vitinha,Kylian Mbappé,31.8
+Vitinha,Neymar,44.9
+Lee Kang-In,G. Donnarumma,1.0
+Lee Kang-In,A. Hakimi,1.0
+Lee Kang-In,Marquinhos,1.5
+Lee Kang-In,M. Škriniar,1.0
+Lee Kang-In,L. Hernández,1.0
+Lee Kang-In,W. Zaïre-Emery,1.0
+Lee Kang-In,Vitinha,15.5
+Lee Kang-In,O. Dembélé,1.0
+Lee Kang-In,K. Mbappé,1.0
+Lee Kang-In,B. Barcola,1.0
+Lee Kang-In,Danilo Pereira,34.95
+Lee Kang-In,C. Ndour,1.0
+Lee Kang-In,Carlos Soler,17.55
+Lee Kang-In,Marco Asensio,20.4
+Lee Kang-In,N. Lemina,1.0
+Lee Kang-In,L. Kurzawa,1.0
+Lee Kang-In,M. Ugarte,1.0
+Lee Kang-In,Ismaël Gharbi,27.5
+Lee Kang-In,H. Ekitike,1.0
+Lee Kang-In,Fabián Ruiz,1.0
+Lee Kang-In,A. Letellier,1.0
+Lee Kang-In,Gonçalo Ramos,1.0
+Lee Kang-In,Keylor Navas,12.0
+Lee Kang-In,Achraf Hakimi,28.55
+Lee Kang-In,Sergio Ramos,41.8
+Lee Kang-In,Juan Bernat,27.05
+Lee Kang-In,Renato Sanches,40.5
+Lee Kang-In,Lionel Messi,27.15
+Lee Kang-In,Kylian Mbappé,17.3
+Lee Kang-In,Neymar,30.4
+O. Dembélé,G. Donnarumma,1.0
+O. Dembélé,A. Hakimi,1.0
+O. Dembélé,Marquinhos,1.5
+O. Dembélé,M. Škriniar,1.0
+O. Dembélé,L. Hernández,1.0
+O. Dembélé,W. Zaïre-Emery,1.0
+O. Dembélé,Vitinha,15.5
+O. Dembélé,Lee Kang-In,1.0
+O. Dembélé,K. Mbappé,1.0
+O. Dembélé,B. Barcola,1.0
+O. Dembélé,Danilo Pereira,34.95
+O. Dembélé,C. Ndour,1.0
+O. Dembélé,Carlos Soler,17.55
+O. Dembélé,Marco Asensio,20.4
+O. Dembélé,N. Lemina,1.0
+O. Dembélé,L. Kurzawa,1.0
+O. Dembélé,M. Ugarte,1.0
+O. Dembélé,Ismaël Gharbi,27.5
+O. Dembélé,H. Ekitike,1.0
+O. Dembélé,Fabián Ruiz,1.0
+O. Dembélé,A. Letellier,1.0
+O. Dembélé,Gonçalo Ramos,1.0
+O. Dembélé,Keylor Navas,12.0
+O. Dembélé,Achraf Hakimi,28.55
+O. Dembélé,Sergio Ramos,41.8
+O. Dembélé,Juan Bernat,27.05
+O. Dembélé,Renato Sanches,40.5
+O. Dembélé,Lionel Messi,27.15
+O. Dembélé,Kylian Mbappé,17.3
+O. Dembélé,Neymar,30.4
+K. Mbappé,G. Donnarumma,1.0
+K. Mbappé,A. Hakimi,1.0
+K. Mbappé,Marquinhos,1.5
+K. Mbappé,M. Škriniar,1.0
+K. Mbappé,L. Hernández,1.0
+K. Mbappé,W. Zaïre-Emery,1.0
+K. Mbappé,Vitinha,15.5
+K. Mbappé,Lee Kang-In,1.0
+K. Mbappé,O. Dembélé,1.0
+K. Mbappé,B. Barcola,1.0
+K. Mbappé,Danilo Pereira,34.95
+K. Mbappé,C. Ndour,1.0
+K. Mbappé,Carlos Soler,17.55
+K. Mbappé,Marco Asensio,20.4
+K. Mbappé,N. Lemina,1.0
+K. Mbappé,L. Kurzawa,1.0
+K. Mbappé,M. Ugarte,1.0
+K. Mbappé,Ismaël Gharbi,27.5
+K. Mbappé,H. Ekitike,1.0
+K. Mbappé,Fabián Ruiz,1.0
+K. Mbappé,A. Letellier,1.0
+K. Mbappé,Gonçalo Ramos,1.0
+K. Mbappé,Keylor Navas,12.0
+K. Mbappé,Achraf Hakimi,28.55
+K. Mbappé,Sergio Ramos,41.8
+K. Mbappé,Juan Bernat,27.05
+K. Mbappé,Renato Sanches,40.5
+K. Mbappé,Lionel Messi,27.15
+K. Mbappé,Kylian Mbappé,17.3
+K. Mbappé,Neymar,30.4
+B. Barcola,G. Donnarumma,1.0
+B. Barcola,A. Hakimi,1.0
+B. Barcola,Marquinhos,1.5
+B. Barcola,M. Škriniar,1.0
+B. Barcola,L. Hernández,1.0
+B. Barcola,W. Zaïre-Emery,1.0
+B. Barcola,Vitinha,15.5
+B. Barcola,Lee Kang-In,1.0
+B. Barcola,O. Dembélé,1.0
+B. Barcola,K. Mbappé,1.0
+B. Barcola,Danilo Pereira,34.95
+B. Barcola,C. Ndour,1.0
+B. Barcola,Carlos Soler,17.55
+B. Barcola,Marco Asensio,20.4
+B. Barcola,N. Lemina,1.0
+B. Barcola,L. Kurzawa,1.0
+B. Barcola,M. Ugarte,1.0
+B. Barcola,Ismaël Gharbi,27.5
+B. Barcola,H. Ekitike,1.0
+B. Barcola,Fabián Ruiz,1.0
+B. Barcola,A. Letellier,1.0
+B. Barcola,Gonçalo Ramos,1.0
+B. Barcola,Keylor Navas,12.0
+B. Barcola,Achraf Hakimi,28.55
+B. Barcola,Sergio Ramos,41.8
+B. Barcola,Juan Bernat,27.05
+B. Barcola,Renato Sanches,40.5
+B. Barcola,Lionel Messi,27.15
+B. Barcola,Kylian Mbappé,17.3
+B. Barcola,Neymar,30.4
+Danilo Pereira,G. Donnarumma,34.95
+Danilo Pereira,A. Hakimi,34.95
+Danilo Pereira,Marquinhos,35.45
+Danilo Pereira,M. Škriniar,34.95
+Danilo Pereira,L. Hernández,34.95
+Danilo Pereira,W. Zaïre-Emery,34.95
+Danilo Pereira,Vitinha,49.45
+Danilo Pereira,Lee Kang-In,34.95
+Danilo Pereira,O. Dembélé,34.95
+Danilo Pereira,K. Mbappé,34.95
+Danilo Pereira,B. Barcola,34.95
+Danilo Pereira,C. Ndour,34.95
+Danilo Pereira,Carlos Soler,51.5
+Danilo Pereira,Marco Asensio,54.35
+Danilo Pereira,N. Lemina,34.95
+Danilo Pereira,L. Kurzawa,34.95
+Danilo Pereira,M. Ugarte,34.95
+Danilo Pereira,Ismaël Gharbi,61.45
+Danilo Pereira,H. Ekitike,34.95
+Danilo Pereira,Fabián Ruiz,34.95
+Danilo Pereira,A. Letellier,34.95
+Danilo Pereira,Gonçalo Ramos,34.95
+Danilo Pereira,Keylor Navas,45.95
+Danilo Pereira,Achraf Hakimi,62.5
+Danilo Pereira,Sergio Ramos,75.75
+Danilo Pereira,Juan Bernat,61.0
+Danilo Pereira,Renato Sanches,74.45
+Danilo Pereira,Lionel Messi,61.1
+Danilo Pereira,Kylian Mbappé,51.25
+Danilo Pereira,Neymar,64.35
+C. Ndour,G. Donnarumma,1.0
+C. Ndour,A. Hakimi,1.0
+C. Ndour,Marquinhos,1.5
+C. Ndour,M. Škriniar,1.0
+C. Ndour,L. Hernández,1.0
+C. Ndour,W. Zaïre-Emery,1.0
+C. Ndour,Vitinha,15.5
+C. Ndour,Lee Kang-In,1.0
+C. Ndour,O. Dembélé,1.0
+C. Ndour,K. Mbappé,1.0
+C. Ndour,B. Barcola,1.0
+C. Ndour,Danilo Pereira,34.95
+C. Ndour,Carlos Soler,17.55
+C. Ndour,Marco Asensio,20.4
+C. Ndour,N. Lemina,1.0
+C. Ndour,L. Kurzawa,1.0
+C. Ndour,M. Ugarte,1.0
+C. Ndour,Ismaël Gharbi,27.5
+C. Ndour,H. Ekitike,1.0
+C. Ndour,Fabián Ruiz,1.0
+C. Ndour,A. Letellier,1.0
+C. Ndour,Gonçalo Ramos,1.0
+C. Ndour,Keylor Navas,12.0
+C. Ndour,Achraf Hakimi,28.55
+C. Ndour,Sergio Ramos,41.8
+C. Ndour,Juan Bernat,27.05
+C. Ndour,Renato Sanches,40.5
+C. Ndour,Lionel Messi,27.15
+C. Ndour,Kylian Mbappé,17.3
+C. Ndour,Neymar,30.4
+Carlos Soler,G. Donnarumma,17.55
+Carlos Soler,A. Hakimi,17.55
+Carlos Soler,Marquinhos,18.05
+Carlos Soler,M. Škriniar,17.55
+Carlos Soler,L. Hernández,17.55
+Carlos Soler,W. Zaïre-Emery,17.55
+Carlos Soler,Vitinha,32.05
+Carlos Soler,Lee Kang-In,17.55
+Carlos Soler,O. Dembélé,17.55
+Carlos Soler,K. Mbappé,17.55
+Carlos Soler,B. Barcola,17.55
+Carlos Soler,Danilo Pereira,51.5
+Carlos Soler,C. Ndour,17.55
+Carlos Soler,Marco Asensio,36.95
+Carlos Soler,N. Lemina,17.55
+Carlos Soler,L. Kurzawa,17.55
+Carlos Soler,M. Ugarte,17.55
+Carlos Soler,Ismaël Gharbi,44.05
+Carlos Soler,H. Ekitike,17.55
+Carlos Soler,Fabián Ruiz,17.55
+Carlos Soler,A. Letellier,17.55
+Carlos Soler,Gonçalo Ramos,17.55
+Carlos Soler,Keylor Navas,28.55
+Carlos Soler,Achraf Hakimi,45.1
+Carlos Soler,Sergio Ramos,58.35
+Carlos Soler,Juan Bernat,43.6
+Carlos Soler,Renato Sanches,57.05
+Carlos Soler,Lionel Messi,43.7
+Carlos Soler,Kylian Mbappé,33.85
+Carlos Soler,Neymar,46.95
+Marco Asensio,G. Donnarumma,20.4
+Marco Asensio,A. Hakimi,20.4
+Marco Asensio,Marquinhos,20.9
+Marco Asensio,M. Škriniar,20.4
+Marco Asensio,L. Hernández,20.4
+Marco Asensio,W. Zaïre-Emery,20.4
+Marco Asensio,Vitinha,34.9
+Marco Asensio,Lee Kang-In,20.4
+Marco Asensio,O. Dembélé,20.4
+Marco Asensio,K. Mbappé,20.4
+Marco Asensio,B. Barcola,20.4
+Marco Asensio,Danilo Pereira,54.35
+Marco Asensio,C. Ndour,20.4
+Marco Asensio,Carlos Soler,36.95
+Marco Asensio,N. Lemina,20.4
+Marco Asensio,L. Kurzawa,20.4
+Marco Asensio,M. Ugarte,20.4
+Marco Asensio,Ismaël Gharbi,46.9
+Marco Asensio,H. Ekitike,20.4
+Marco Asensio,Fabián Ruiz,20.4
+Marco Asensio,A. Letellier,20.4
+Marco Asensio,Gonçalo Ramos,20.4
+Marco Asensio,Keylor Navas,31.4
+Marco Asensio,Achraf Hakimi,47.95
+Marco Asensio,Sergio Ramos,61.2
+Marco Asensio,Juan Bernat,46.45
+Marco Asensio,Renato Sanches,59.9
+Marco Asensio,Lionel Messi,46.55
+Marco Asensio,Kylian Mbappé,36.7
+Marco Asensio,Neymar,49.8
+N. Lemina,G. Donnarumma,1.0
+N. Lemina,A. Hakimi,1.0
+N. Lemina,Marquinhos,1.5
+N. Lemina,M. Škriniar,1.0
+N. Lemina,L. Hernández,1.0
+N. Lemina,W. Zaïre-Emery,1.0
+N. Lemina,Vitinha,15.5
+N. Lemina,Lee Kang-In,1.0
+N. Lemina,O. Dembélé,1.0
+N. Lemina,K. Mbappé,1.0
+N. Lemina,B. Barcola,1.0
+N. Lemina,Danilo Pereira,34.95
+N. Lemina,C. Ndour,1.0
+N. Lemina,Carlos Soler,17.55
+N. Lemina,Marco Asensio,20.4
+N. Lemina,L. Kurzawa,1.0
+N. Lemina,M. Ugarte,1.0
+N. Lemina,Ismaël Gharbi,27.5
+N. Lemina,H. Ekitike,1.0
+N. Lemina,Fabián Ruiz,1.0
+N. Lemina,A. Letellier,1.0
+N. Lemina,Gonçalo Ramos,1.0
+N. Lemina,Keylor Navas,12.0
+N. Lemina,Achraf Hakimi,28.55
+N. Lemina,Sergio Ramos,41.8
+N. Lemina,Juan Bernat,27.05
+N. Lemina,Renato Sanches,40.5
+N. Lemina,Lionel Messi,27.15
+N. Lemina,Kylian Mbappé,17.3
+N. Lemina,Neymar,30.4
+L. Kurzawa,G. Donnarumma,1.0
+L. Kurzawa,A. Hakimi,1.0
+L. Kurzawa,Marquinhos,1.5
+L. Kurzawa,M. Škriniar,1.0
+L. Kurzawa,L. Hernández,1.0
+L. Kurzawa,W. Zaïre-Emery,1.0
+L. Kurzawa,Vitinha,15.5
+L. Kurzawa,Lee Kang-In,1.0
+L. Kurzawa,O. Dembélé,1.0
+L. Kurzawa,K. Mbappé,1.0
+L. Kurzawa,B. Barcola,1.0
+L. Kurzawa,Danilo Pereira,34.95
+L. Kurzawa,C. Ndour,1.0
+L. Kurzawa,Carlos Soler,17.55
+L. Kurzawa,Marco Asensio,20.4
+L. Kurzawa,N. Lemina,1.0
+L. Kurzawa,M. Ugarte,1.0
+L. Kurzawa,Ismaël Gharbi,27.5
+L. Kurzawa,H. Ekitike,1.0
+L. Kurzawa,Fabián Ruiz,1.0
+L. Kurzawa,A. Letellier,1.0
+L. Kurzawa,Gonçalo Ramos,1.0
+L. Kurzawa,Keylor Navas,12.0
+L. Kurzawa,Achraf Hakimi,28.55
+L. Kurzawa,Sergio Ramos,41.8
+L. Kurzawa,Juan Bernat,27.05
+L. Kurzawa,Renato Sanches,40.5
+L. Kurzawa,Lionel Messi,27.15
+L. Kurzawa,Kylian Mbappé,17.3
+L. Kurzawa,Neymar,30.4
+M. Ugarte,G. Donnarumma,1.0
+M. Ugarte,A. Hakimi,1.0
+M. Ugarte,Marquinhos,1.5
+M. Ugarte,M. Škriniar,1.0
+M. Ugarte,L. Hernández,1.0
+M. Ugarte,W. Zaïre-Emery,1.0
+M. Ugarte,Vitinha,15.5
+M. Ugarte,Lee Kang-In,1.0
+M. Ugarte,O. Dembélé,1.0
+M. Ugarte,K. Mbappé,1.0
+M. Ugarte,B. Barcola,1.0
+M. Ugarte,Danilo Pereira,34.95
+M. Ugarte,C. Ndour,1.0
+M. Ugarte,Carlos Soler,17.55
+M. Ugarte,Marco Asensio,20.4
+M. Ugarte,N. Lemina,1.0
+M. Ugarte,L. Kurzawa,1.0
+M. Ugarte,Ismaël Gharbi,27.5
+M. Ugarte,H. Ekitike,1.0
+M. Ugarte,Fabián Ruiz,1.0
+M. Ugarte,A. Letellier,1.0
+M. Ugarte,Gonçalo Ramos,1.0
+M. Ugarte,Keylor Navas,12.0
+M. Ugarte,Achraf Hakimi,28.55
+M. Ugarte,Sergio Ramos,41.8
+M. Ugarte,Juan Bernat,27.05
+M. Ugarte,Renato Sanches,40.5
+M. Ugarte,Lionel Messi,27.15
+M. Ugarte,Kylian Mbappé,17.3
+M. Ugarte,Neymar,30.4
+Ismaël Gharbi,G. Donnarumma,27.5
+Ismaël Gharbi,A. Hakimi,27.5
+Ismaël Gharbi,Marquinhos,28.0
+Ismaël Gharbi,M. Škriniar,27.5
+Ismaël Gharbi,L. Hernández,27.5
+Ismaël Gharbi,W. Zaïre-Emery,27.5
+Ismaël Gharbi,Vitinha,42.0
+Ismaël Gharbi,Lee Kang-In,27.5
+Ismaël Gharbi,O. Dembélé,27.5
+Ismaël Gharbi,K. Mbappé,27.5
+Ismaël Gharbi,B. Barcola,27.5
+Ismaël Gharbi,Danilo Pereira,61.45
+Ismaël Gharbi,C. Ndour,27.5
+Ismaël Gharbi,Carlos Soler,44.05
+Ismaël Gharbi,Marco Asensio,46.9
+Ismaël Gharbi,N. Lemina,27.5
+Ismaël Gharbi,L. Kurzawa,27.5
+Ismaël Gharbi,M. Ugarte,27.5
+Ismaël Gharbi,H. Ekitike,27.5
+Ismaël Gharbi,Fabián Ruiz,27.5
+Ismaël Gharbi,A. Letellier,27.5
+Ismaël Gharbi,Gonçalo Ramos,27.5
+Ismaël Gharbi,Keylor Navas,38.5
+Ismaël Gharbi,Achraf Hakimi,55.05
+Ismaël Gharbi,Sergio Ramos,68.3
+Ismaël Gharbi,Juan Bernat,53.55
+Ismaël Gharbi,Renato Sanches,67.0
+Ismaël Gharbi,Lionel Messi,53.65
+Ismaël Gharbi,Kylian Mbappé,43.8
+Ismaël Gharbi,Neymar,56.9
+H. Ekitike,G. Donnarumma,1.0
+H. Ekitike,A. Hakimi,1.0
+H. Ekitike,Marquinhos,1.5
+H. Ekitike,M. Škriniar,1.0
+H. Ekitike,L. Hernández,1.0
+H. Ekitike,W. Zaïre-Emery,1.0
+H. Ekitike,Vitinha,15.5
+H. Ekitike,Lee Kang-In,1.0
+H. Ekitike,O. Dembélé,1.0
+H. Ekitike,K. Mbappé,1.0
+H. Ekitike,B. Barcola,1.0
+H. Ekitike,Danilo Pereira,34.95
+H. Ekitike,C. Ndour,1.0
+H. Ekitike,Carlos Soler,17.55
+H. Ekitike,Marco Asensio,20.4
+H. Ekitike,N. Lemina,1.0
+H. Ekitike,L. Kurzawa,1.0
+H. Ekitike,M. Ugarte,1.0
+H. Ekitike,Ismaël Gharbi,27.5
+H. Ekitike,Fabián Ruiz,1.0
+H. Ekitike,A. Letellier,1.0
+H. Ekitike,Gonçalo Ramos,1.0
+H. Ekitike,Keylor Navas,12.0
+H. Ekitike,Achraf Hakimi,28.55
+H. Ekitike,Sergio Ramos,41.8
+H. Ekitike,Juan Bernat,27.05
+H. Ekitike,Renato Sanches,40.5
+H. Ekitike,Lionel Messi,27.15
+H. Ekitike,Kylian Mbappé,17.3
+H. Ekitike,Neymar,30.4
+Fabián Ruiz,G. Donnarumma,1.0
+Fabián Ruiz,A. Hakimi,1.0
+Fabián Ruiz,Marquinhos,1.5
+Fabián Ruiz,M. Škriniar,1.0
+Fabián Ruiz,L. Hernández,1.0
+Fabián Ruiz,W. Zaïre-Emery,1.0
+Fabián Ruiz,Vitinha,15.5
+Fabián Ruiz,Lee Kang-In,1.0
+Fabián Ruiz,O. Dembélé,1.0
+Fabián Ruiz,K. Mbappé,1.0
+Fabián Ruiz,B. Barcola,1.0
+Fabián Ruiz,Danilo Pereira,34.95
+Fabián Ruiz,C. Ndour,1.0
+Fabián Ruiz,Carlos Soler,17.55
+Fabián Ruiz,Marco Asensio,20.4
+Fabián Ruiz,N. Lemina,1.0
+Fabián Ruiz,L. Kurzawa,1.0
+Fabián Ruiz,M. Ugarte,1.0
+Fabián Ruiz,Ismaël Gharbi,27.5
+Fabián Ruiz,H. Ekitike,1.0
+Fabián Ruiz,A. Letellier,1.0
+Fabián Ruiz,Gonçalo Ramos,1.0
+Fabián Ruiz,Keylor Navas,12.0
+Fabián Ruiz,Achraf Hakimi,28.55
+Fabián Ruiz,Sergio Ramos,41.8
+Fabián Ruiz,Juan Bernat,27.05
+Fabián Ruiz,Renato Sanches,40.5
+Fabián Ruiz,Lionel Messi,27.15
+Fabián Ruiz,Kylian Mbappé,17.3
+Fabián Ruiz,Neymar,30.4
+A. Letellier,G. Donnarumma,1.0
+A. Letellier,A. Hakimi,1.0
+A. Letellier,Marquinhos,1.5
+A. Letellier,M. Škriniar,1.0
+A. Letellier,L. Hernández,1.0
+A. Letellier,W. Zaïre-Emery,1.0
+A. Letellier,Vitinha,15.5
+A. Letellier,Lee Kang-In,1.0
+A. Letellier,O. Dembélé,1.0
+A. Letellier,K. Mbappé,1.0
+A. Letellier,B. Barcola,1.0
+A. Letellier,Danilo Pereira,34.95
+A. Letellier,C. Ndour,1.0
+A. Letellier,Carlos Soler,17.55
+A. Letellier,Marco Asensio,20.4
+A. Letellier,N. Lemina,1.0
+A. Letellier,L. Kurzawa,1.0
+A. Letellier,M. Ugarte,1.0
+A. Letellier,Ismaël Gharbi,27.5
+A. Letellier,H. Ekitike,1.0
+A. Letellier,Fabián Ruiz,1.0
+A. Letellier,Gonçalo Ramos,1.0
+A. Letellier,Keylor Navas,12.0
+A. Letellier,Achraf Hakimi,28.55
+A. Letellier,Sergio Ramos,41.8
+A. Letellier,Juan Bernat,27.05
+A. Letellier,Renato Sanches,40.5
+A. Letellier,Lionel Messi,27.15
+A. Letellier,Kylian Mbappé,17.3
+A. Letellier,Neymar,30.4
+Gonçalo Ramos,G. Donnarumma,1.0
+Gonçalo Ramos,A. Hakimi,1.0
+Gonçalo Ramos,Marquinhos,1.5
+Gonçalo Ramos,M. Škriniar,1.0
+Gonçalo Ramos,L. Hernández,1.0
+Gonçalo Ramos,W. Zaïre-Emery,1.0
+Gonçalo Ramos,Vitinha,15.5
+Gonçalo Ramos,Lee Kang-In,1.0
+Gonçalo Ramos,O. Dembélé,1.0
+Gonçalo Ramos,K. Mbappé,1.0
+Gonçalo Ramos,B. Barcola,1.0
+Gonçalo Ramos,Danilo Pereira,34.95
+Gonçalo Ramos,C. Ndour,1.0
+Gonçalo Ramos,Carlos Soler,17.55
+Gonçalo Ramos,Marco Asensio,20.4
+Gonçalo Ramos,N. Lemina,1.0
+Gonçalo Ramos,L. Kurzawa,1.0
+Gonçalo Ramos,M. Ugarte,1.0
+Gonçalo Ramos,Ismaël Gharbi,27.5
+Gonçalo Ramos,H. Ekitike,1.0
+Gonçalo Ramos,Fabián Ruiz,1.0
+Gonçalo Ramos,A. Letellier,1.0
+Gonçalo Ramos,Keylor Navas,12.0
+Gonçalo Ramos,Achraf Hakimi,28.55
+Gonçalo Ramos,Sergio Ramos,41.8
+Gonçalo Ramos,Juan Bernat,27.05
+Gonçalo Ramos,Renato Sanches,40.5
+Gonçalo Ramos,Lionel Messi,27.15
+Gonçalo Ramos,Kylian Mbappé,17.3
+Gonçalo Ramos,Neymar,30.4
+Keylor Navas,G. Donnarumma,12.0
+Keylor Navas,A. Hakimi,12.0
+Keylor Navas,Marquinhos,12.5
+Keylor Navas,M. Škriniar,12.0
+Keylor Navas,L. Hernández,12.0
+Keylor Navas,W. Zaïre-Emery,12.0
+Keylor Navas,Vitinha,26.5
+Keylor Navas,Lee Kang-In,12.0
+Keylor Navas,O. Dembélé,12.0
+Keylor Navas,K. Mbappé,12.0
+Keylor Navas,B. Barcola,12.0
+Keylor Navas,Danilo Pereira,45.95
+Keylor Navas,C. Ndour,12.0
+Keylor Navas,Carlos Soler,28.55
+Keylor Navas,Marco Asensio,31.4
+Keylor Navas,N. Lemina,12.0
+Keylor Navas,L. Kurzawa,12.0
+Keylor Navas,M. Ugarte,12.0
+Keylor Navas,Ismaël Gharbi,38.5
+Keylor Navas,H. Ekitike,12.0
+Keylor Navas,Fabián Ruiz,12.0
+Keylor Navas,A. Letellier,12.0
+Keylor Navas,Gonçalo Ramos,12.0
+Keylor Navas,Achraf Hakimi,39.55
+Keylor Navas,Sergio Ramos,52.8
+Keylor Navas,Juan Bernat,38.05
+Keylor Navas,Renato Sanches,51.5
+Keylor Navas,Lionel Messi,38.15
+Keylor Navas,Kylian Mbappé,28.3
+Keylor Navas,Neymar,41.4
+Achraf Hakimi,G. Donnarumma,28.55
+Achraf Hakimi,A. Hakimi,28.55
+Achraf Hakimi,Marquinhos,29.05
+Achraf Hakimi,M. Škriniar,28.55
+Achraf Hakimi,L. Hernández,28.55
+Achraf Hakimi,W. Zaïre-Emery,28.55
+Achraf Hakimi,Vitinha,43.05
+Achraf Hakimi,Lee Kang-In,28.55
+Achraf Hakimi,O. Dembélé,28.55
+Achraf Hakimi,K. Mbappé,28.55
+Achraf Hakimi,B. Barcola,28.55
+Achraf Hakimi,Danilo Pereira,62.5
+Achraf Hakimi,C. Ndour,28.55
+Achraf Hakimi,Carlos Soler,45.1
+Achraf Hakimi,Marco Asensio,47.95
+Achraf Hakimi,N. Lemina,28.55
+Achraf Hakimi,L. Kurzawa,28.55
+Achraf Hakimi,M. Ugarte,28.55
+Achraf Hakimi,Ismaël Gharbi,55.05
+Achraf Hakimi,H. Ekitike,28.55
+Achraf Hakimi,Fabián Ruiz,28.55
+Achraf Hakimi,A. Letellier,28.55
+Achraf Hakimi,Gonçalo Ramos,28.55
+Achraf Hakimi,Keylor Navas,39.55
+Achraf Hakimi,Sergio Ramos,69.35
+Achraf Hakimi,Juan Bernat,54.6
+Achraf Hakimi,Renato Sanches,68.05
+Achraf Hakimi,Lionel Messi,54.7
+Achraf Hakimi,Kylian Mbappé,44.85
+Achraf Hakimi,Neymar,57.95
+Sergio Ramos,G. Donnarumma,41.8
+Sergio Ramos,A. Hakimi,41.8
+Sergio Ramos,Marquinhos,42.3
+Sergio Ramos,M. Škriniar,41.8
+Sergio Ramos,L. Hernández,41.8
+Sergio Ramos,W. Zaïre-Emery,41.8
+Sergio Ramos,Vitinha,56.3
+Sergio Ramos,Lee Kang-In,41.8
+Sergio Ramos,O. Dembélé,41.8
+Sergio Ramos,K. Mbappé,41.8
+Sergio Ramos,B. Barcola,41.8
+Sergio Ramos,Danilo Pereira,75.75
+Sergio Ramos,C. Ndour,41.8
+Sergio Ramos,Carlos Soler,58.35
+Sergio Ramos,Marco Asensio,61.2
+Sergio Ramos,N. Lemina,41.8
+Sergio Ramos,L. Kurzawa,41.8
+Sergio Ramos,M. Ugarte,41.8
+Sergio Ramos,Ismaël Gharbi,68.3
+Sergio Ramos,H. Ekitike,41.8
+Sergio Ramos,Fabián Ruiz,41.8
+Sergio Ramos,A. Letellier,41.8
+Sergio Ramos,Gonçalo Ramos,41.8
+Sergio Ramos,Keylor Navas,52.8
+Sergio Ramos,Achraf Hakimi,69.35
+Sergio Ramos,Juan Bernat,67.85
+Sergio Ramos,Renato Sanches,81.3
+Sergio Ramos,Lionel Messi,67.95
+Sergio Ramos,Kylian Mbappé,58.1
+Sergio Ramos,Neymar,71.2
+Juan Bernat,G. Donnarumma,27.05
+Juan Bernat,A. Hakimi,27.05
+Juan Bernat,Marquinhos,27.55
+Juan Bernat,M. Škriniar,27.05
+Juan Bernat,L. Hernández,27.05
+Juan Bernat,W. Zaïre-Emery,27.05
+Juan Bernat,Vitinha,41.55
+Juan Bernat,Lee Kang-In,27.05
+Juan Bernat,O. Dembélé,27.05
+Juan Bernat,K. Mbappé,27.05
+Juan Bernat,B. Barcola,27.05
+Juan Bernat,Danilo Pereira,61.0
+Juan Bernat,C. Ndour,27.05
+Juan Bernat,Carlos Soler,43.6
+Juan Bernat,Marco Asensio,46.45
+Juan Bernat,N. Lemina,27.05
+Juan Bernat,L. Kurzawa,27.05
+Juan Bernat,M. Ugarte,27.05
+Juan Bernat,Ismaël Gharbi,53.55
+Juan Bernat,H. Ekitike,27.05
+Juan Bernat,Fabián Ruiz,27.05
+Juan Bernat,A. Letellier,27.05
+Juan Bernat,Gonçalo Ramos,27.05
+Juan Bernat,Keylor Navas,38.05
+Juan Bernat,Achraf Hakimi,54.6
+Juan Bernat,Sergio Ramos,67.85
+Juan Bernat,Renato Sanches,66.55
+Juan Bernat,Lionel Messi,53.2
+Juan Bernat,Kylian Mbappé,43.35
+Juan Bernat,Neymar,56.45
+Renato Sanches,G. Donnarumma,40.5
+Renato Sanches,A. Hakimi,40.5
+Renato Sanches,Marquinhos,41.0
+Renato Sanches,M. Škriniar,40.5
+Renato Sanches,L. Hernández,40.5
+Renato Sanches,W. Zaïre-Emery,40.5
+Renato Sanches,Vitinha,55.0
+Renato Sanches,Lee Kang-In,40.5
+Renato Sanches,O. Dembélé,40.5
+Renato Sanches,K. Mbappé,40.5
+Renato Sanches,B. Barcola,40.5
+Renato Sanches,Danilo Pereira,74.45
+Renato Sanches,C. Ndour,40.5
+Renato Sanches,Carlos Soler,57.05
+Renato Sanches,Marco Asensio,59.9
+Renato Sanches,N. Lemina,40.5
+Renato Sanches,L. Kurzawa,40.5
+Renato Sanches,M. Ugarte,40.5
+Renato Sanches,Ismaël Gharbi,67.0
+Renato Sanches,H. Ekitike,40.5
+Renato Sanches,Fabián Ruiz,40.5
+Renato Sanches,A. Letellier,40.5
+Renato Sanches,Gonçalo Ramos,40.5
+Renato Sanches,Keylor Navas,51.5
+Renato Sanches,Achraf Hakimi,68.05
+Renato Sanches,Sergio Ramos,81.3
+Renato Sanches,Juan Bernat,66.55
+Renato Sanches,Lionel Messi,66.65
+Renato Sanches,Kylian Mbappé,56.8
+Renato Sanches,Neymar,69.9
+Lionel Messi,G. Donnarumma,27.15
+Lionel Messi,A. Hakimi,27.15
+Lionel Messi,Marquinhos,27.65
+Lionel Messi,M. Škriniar,27.15
+Lionel Messi,L. Hernández,27.15
+Lionel Messi,W. Zaïre-Emery,27.15
+Lionel Messi,Vitinha,41.65
+Lionel Messi,Lee Kang-In,27.15
+Lionel Messi,O. Dembélé,27.15
+Lionel Messi,K. Mbappé,27.15
+Lionel Messi,B. Barcola,27.15
+Lionel Messi,Danilo Pereira,61.1
+Lionel Messi,C. Ndour,27.15
+Lionel Messi,Carlos Soler,43.7
+Lionel Messi,Marco Asensio,46.55
+Lionel Messi,N. Lemina,27.15
+Lionel Messi,L. Kurzawa,27.15
+Lionel Messi,M. Ugarte,27.15
+Lionel Messi,Ismaël Gharbi,53.65
+Lionel Messi,H. Ekitike,27.15
+Lionel Messi,Fabián Ruiz,27.15
+Lionel Messi,A. Letellier,27.15
+Lionel Messi,Gonçalo Ramos,27.15
+Lionel Messi,Keylor Navas,38.15
+Lionel Messi,Achraf Hakimi,54.7
+Lionel Messi,Sergio Ramos,67.95
+Lionel Messi,Juan Bernat,53.2
+Lionel Messi,Renato Sanches,66.65
+Lionel Messi,Kylian Mbappé,43.45
+Lionel Messi,Neymar,56.55
+Kylian Mbappé,G. Donnarumma,17.3
+Kylian Mbappé,A. Hakimi,17.3
+Kylian Mbappé,Marquinhos,17.8
+Kylian Mbappé,M. Škriniar,17.3
+Kylian Mbappé,L. Hernández,17.3
+Kylian Mbappé,W. Zaïre-Emery,17.3
+Kylian Mbappé,Vitinha,31.8
+Kylian Mbappé,Lee Kang-In,17.3
+Kylian Mbappé,O. Dembélé,17.3
+Kylian Mbappé,K. Mbappé,17.3
+Kylian Mbappé,B. Barcola,17.3
+Kylian Mbappé,Danilo Pereira,51.25
+Kylian Mbappé,C. Ndour,17.3
+Kylian Mbappé,Carlos Soler,33.85
+Kylian Mbappé,Marco Asensio,36.7
+Kylian Mbappé,N. Lemina,17.3
+Kylian Mbappé,L. Kurzawa,17.3
+Kylian Mbappé,M. Ugarte,17.3
+Kylian Mbappé,Ismaël Gharbi,43.8
+Kylian Mbappé,H. Ekitike,17.3
+Kylian Mbappé,Fabián Ruiz,17.3
+Kylian Mbappé,A. Letellier,17.3
+Kylian Mbappé,Gonçalo Ramos,17.3
+Kylian Mbappé,Keylor Navas,28.3
+Kylian Mbappé,Achraf Hakimi,44.85
+Kylian Mbappé,Sergio Ramos,58.1
+Kylian Mbappé,Juan Bernat,43.35
+Kylian Mbappé,Renato Sanches,56.8
+Kylian Mbappé,Lionel Messi,43.45
+Kylian Mbappé,Neymar,46.7
+Neymar,G. Donnarumma,30.4
+Neymar,A. Hakimi,30.4
+Neymar,Marquinhos,30.9
+Neymar,M. Škriniar,30.4
+Neymar,L. Hernández,30.4
+Neymar,W. Zaïre-Emery,30.4
+Neymar,Vitinha,44.9
+Neymar,Lee Kang-In,30.4
+Neymar,O. Dembélé,30.4
+Neymar,K. Mbappé,30.4
+Neymar,B. Barcola,30.4
+Neymar,Danilo Pereira,64.35
+Neymar,C. Ndour,30.4
+Neymar,Carlos Soler,46.95
+Neymar,Marco Asensio,49.8
+Neymar,N. Lemina,30.4
+Neymar,L. Kurzawa,30.4
+Neymar,M. Ugarte,30.4
+Neymar,Ismaël Gharbi,56.9
+Neymar,H. Ekitike,30.4
+Neymar,Fabián Ruiz,30.4
+Neymar,A. Letellier,30.4
+Neymar,Gonçalo Ramos,30.4
+Neymar,Keylor Navas,41.4
+Neymar,Achraf Hakimi,57.95
+Neymar,Sergio Ramos,71.2
+Neymar,Juan Bernat,56.45
+Neymar,Renato Sanches,69.9
+Neymar,Lionel Messi,56.55
+Neymar,Kylian Mbappé,46.7

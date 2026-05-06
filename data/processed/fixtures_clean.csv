@@ -1,0 +1,60 @@
+fixture_id,date,venue,home_team,away_team,home_goals,away_goals,result
+992280,2023-01-19 17:00:00+00:00,,Al-Hilal & Al-Nassr Stars,Paris Saint Germain,4,5,L
+1040930,2023-07-21 15:00:00+00:00,Campus PSG,Paris Saint Germain,Le Havre,2,0,W
+1030305,2023-07-25 10:20:00+00:00,Yanmar Stadium Nagai,Paris Saint Germain,Al-Nassr,0,0,D
+1030313,2023-07-28 10:20:00+00:00,Yanmar Stadium Nagai,Paris Saint Germain,Cerezo Osaka,2,3,L
+1030322,2023-08-01 10:00:00+00:00,Japan National Stadium,Paris Saint Germain,Inter,1,2,L
+1097173,2023-08-03 08:00:00+00:00,Busan Asiad Main Stadium,Jeonbuk Motors,Paris Saint Germain,0,3,L
+1044881,2023-08-12 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Lorient,0,0,D
+1044890,2023-08-19 19:00:00+00:00,Stadium de Toulouse,Toulouse,Paris Saint Germain,1,1,D
+1044899,2023-08-26 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Lens,3,1,W
+1044911,2023-09-03 18:45:00+00:00,Groupama Stadium,Lyon,Paris Saint Germain,1,4,L
+1044917,2023-09-15 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Nice,2,3,L
+1126148,2023-09-19 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Borussia Dortmund,2,0,W
+1044926,2023-09-24 18:45:00+00:00,Parc des Princes,Paris Saint Germain,Marseille,4,0,W
+1044941,2023-09-30 15:00:00+00:00,Stade Gabriel-Montpied,Clermont Foot,Paris Saint Germain,0,0,D
+1126172,2023-10-04 19:00:00+00:00,St. James' Park,Newcastle,Paris Saint Germain,4,1,W
+1044945,2023-10-08 18:45:00+00:00,Roazhon Park,Rennes,Paris Saint Germain,1,3,L
+1044953,2023-10-21 15:00:00+00:00,Parc des Princes,Paris Saint Germain,Strasbourg,3,0,W
+1126187,2023-10-25 19:00:00+00:00,Parc des Princes,Paris Saint Germain,AC Milan,3,0,W
+1044970,2023-10-29 12:00:00+00:00,Stade Francis-Le Blé,Stade Brestois 29,Paris Saint Germain,2,3,L
+1044971,2023-11-03 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Montpellier,3,0,W
+1126196,2023-11-07 20:00:00+00:00,Stadio Giuseppe Meazza,AC Milan,Paris Saint Germain,2,1,W
+1044983,2023-11-11 16:00:00+00:00,Stade Auguste-Delaune,Reims,Paris Saint Germain,0,3,L
+1044989,2023-11-24 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Monaco,5,2,W
+1126211,2023-11-28 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Newcastle,1,1,D
+1045005,2023-12-03 12:00:00+00:00,Stade Océane,Le Havre,Paris Saint Germain,0,2,L
+1045007,2023-12-09 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Nantes,2,1,W
+1126236,2023-12-13 20:00:00+00:00,SIGNAL IDUNA PARK,Borussia Dortmund,Paris Saint Germain,1,1,D
+1045020,2023-12-17 19:45:00+00:00,Decathlon Arena - Stade Pierre-Mauroy,Lille,Paris Saint Germain,1,1,D
+1045025,2023-12-20 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Metz,3,1,W
+1029862,2024-01-03 19:45:00+00:00,Parc des Princes,Paris Saint Germain,Toulouse,2,0,W
+1147285,2024-01-07 19:45:00+00:00,Stade Pierre-Fabre,Revel,Paris Saint Germain,0,9,L
+1045042,2024-01-14 19:45:00+00:00,Stade Bollaert-Delelis,Lens,Paris Saint Germain,0,2,L
+1157516,2024-01-20 19:45:00+00:00,Stade de la Source,Orleans,Paris Saint Germain,1,4,L
+1045043,2024-01-28 19:45:00+00:00,Parc des Princes,Paris Saint Germain,Stade Brestois 29,2,2,D
+1045052,2024-02-02 20:00:00+00:00,Stade de la Meinau,Strasbourg,Paris Saint Germain,1,2,L
+1162557,2024-02-07 20:10:00+00:00,Parc des Princes,Paris Saint Germain,Stade Brestois 29,3,1,W
+1045061,2024-02-10 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Lille,3,1,W
+1149514,2024-02-14 20:00:00+00:00,Parc des Princes,Paris Saint Germain,Real Sociedad,2,0,W
+1045076,2024-02-17 20:00:00+00:00,Stade de la Beaujoire - Louis Fonteneau,Nantes,Paris Saint Germain,0,2,L
+1045079,2024-02-25 16:05:00+00:00,Parc des Princes,Paris Saint Germain,Rennes,1,1,D
+1045090,2024-03-01 20:00:00+00:00,Stade Louis-II,Monaco,Paris Saint Germain,0,0,D
+1149515,2024-03-05 20:00:00+00:00,Reale Arena,Real Sociedad,Paris Saint Germain,1,2,L
+1045097,2024-03-10 12:00:00+00:00,Parc des Princes,Paris Saint Germain,Reims,2,2,D
+1172711,2024-03-13 20:10:00+00:00,Parc des Princes,Paris Saint Germain,Nice,3,1,W
+1045113,2024-03-17 19:45:00+00:00,Stade de la Mosson-Mondial 98,Montpellier,Paris Saint Germain,2,6,L
+1045116,2024-03-31 18:45:00+00:00,Orange Vélodrome,Marseille,Paris Saint Germain,0,2,L
+1184698,2024-04-03 19:10:00+00:00,Parc des Princes,Paris Saint Germain,Rennes,1,0,W
+1045124,2024-04-06 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Clermont Foot,1,1,D
+1184783,2024-04-10 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Barcelona,2,3,L
+1184784,2024-04-16 19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,Paris Saint Germain,1,4,L
+1045142,2024-04-21 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Lyon,4,1,W
+1045136,2024-04-24 17:00:00+00:00,Stade du Moustoir - Yves Allainmat,Lorient,Paris Saint Germain,1,4,L
+1045151,2024-04-27 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Le Havre,3,3,D
+1196501,2024-05-01 19:00:00+00:00,SIGNAL IDUNA PARK,Borussia Dortmund,Paris Saint Germain,1,0,W
+1196502,2024-05-07 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Borussia Dortmund,0,1,L
+1045169,2024-05-12 19:00:00+00:00,Parc des Princes,Paris Saint Germain,Toulouse,1,3,L
+1045163,2024-05-15 19:00:00+00:00,Allianz Riviera,Nice,Paris Saint Germain,1,2,L
+1045186,2024-05-19 19:00:00+00:00,Stade Saint-Symphorien,Metz,Paris Saint Germain,0,2,L
+1193081,2024-05-25 19:00:00+00:00,Decathlon Arena - Stade Pierre-Mauroy,Lyon,Paris Saint Germain,1,2,L

@@ -1,0 +1,2 @@
+n_simulations,wins,draws,losses,prob_win,prob_draw,prob_loss
+10000,2465,2213,5322,0.2465,0.2213,0.5322

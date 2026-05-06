@@ -1,0 +1,546 @@
+[
+  {
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "colors": {
+        "player": {
+          "primary": "000066",
+          "number": "ffffff",
+          "border": "000066"
+        },
+        "goalkeeper": {
+          "primary": "66cc00",
+          "number": "ffffff",
+          "border": "66cc00"
+        }
+      }
+    },
+    "coach": {
+      "id": 193,
+      "name": "Luis Enrique",
+      "photo": "https://media.api-sports.io/football/coachs/193.png"
+    },
+    "formation": "4-3-3",
+    "startXI": [
+      {
+        "player": {
+          "id": 1622,
+          "name": "G. Donnarumma",
+          "number": 99,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 9,
+          "name": "A. Hakimi",
+          "number": 2,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 257,
+          "name": "Marquinhos",
+          "number": 5,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 198,
+          "name": "M. Škriniar",
+          "number": 37,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 33,
+          "name": "L. Hernández",
+          "number": 21,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 51494,
+          "name": "M. Ugarte",
+          "number": 4,
+          "pos": "M",
+          "grid": "3:3"
+        }
+      },
+      {
+        "player": {
+          "id": 336657,
+          "name": "W. Zaïre-Emery",
+          "number": 33,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 328,
+          "name": "Fabián Ruiz",
+          "number": 8,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 128384,
+          "name": "Vitinha",
+          "number": 17,
+          "pos": "F",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 746,
+          "name": "Marco Asensio",
+          "number": 11,
+          "pos": "F",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 930,
+          "name": "Carlos Soler",
+          "number": 28,
+          "pos": "F",
+          "grid": "4:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 263,
+          "name": "L. Kurzawa",
+          "number": 32,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 311083,
+          "name": "C. Ndour",
+          "number": 27,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 174565,
+          "name": "H. Ekitike",
+          "number": 44,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 381,
+          "name": "Danilo Pereira",
+          "number": 15,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 310196,
+          "name": "Ismaël Gharbi",
+          "number": 35,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 349189,
+          "name": "L. Mouquet",
+          "number": 50,
+          "pos": null,
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 409217,
+          "name": "Serif Nhaga",
+          "number": 36,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 731,
+          "name": "K. Navas",
+          "number": 1,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 276,
+          "name": "Neymar",
+          "number": 10,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 262,
+          "name": "P. Kimpembe",
+          "number": 3,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 386287,
+          "name": "E. Mbappé",
+          "number": 38,
+          "pos": null,
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 386275,
+          "name": "I. Housni",
+          "number": 39,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 513,
+          "name": "Renato Sanches",
+          "number": 18,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 338856,
+          "name": "N. Lemina",
+          "number": 43,
+          "pos": null,
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 927,
+          "name": "Lee Kang-In",
+          "number": 19,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 273,
+          "name": "M. Verratti",
+          "number": 6,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 258,
+          "name": "Juan Bernat",
+          "number": 14,
+          "pos": "D",
+          "grid": null
+        }
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 505,
+      "name": "Inter",
+      "logo": "https://media.api-sports.io/football/teams/505.png",
+      "colors": {
+        "player": {
+          "primary": "ebfe58",
+          "number": "000000",
+          "border": "ebfe58"
+        },
+        "goalkeeper": {
+          "primary": "ff6600",
+          "number": "ffffff",
+          "border": "ff6600"
+        }
+      }
+    },
+    "coach": {
+      "id": 2392,
+      "name": "S. Inzaghi",
+      "photo": "https://media.api-sports.io/football/coachs/2392.png"
+    },
+    "formation": "3-5-2",
+    "startXI": [
+      {
+        "player": {
+          "id": 162445,
+          "name": "F. Stanković",
+          "number": 35,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 887,
+          "name": "M. Darmian",
+          "number": 36,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 1836,
+          "name": "F. Acerbi",
+          "number": 15,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 31009,
+          "name": "A. Bastoni",
+          "number": 95,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 226,
+          "name": "D. Dumfries",
+          "number": 2,
+          "pos": "M",
+          "grid": "3:5"
+        }
+      },
+      {
+        "player": {
+          "id": 30558,
+          "name": "N. Barella",
+          "number": 23,
+          "pos": "M",
+          "grid": "3:4"
+        }
+      },
+      {
+        "player": {
+          "id": 1640,
+          "name": "H. Çalhanoğlu",
+          "number": 20,
+          "pos": "M",
+          "grid": "3:3"
+        }
+      },
+      {
+        "player": {
+          "id": 1457,
+          "name": "H. Mkhitaryan",
+          "number": 22,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 31010,
+          "name": "F. Dimarco",
+          "number": 32,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 21509,
+          "name": "M. Thuram",
+          "number": 9,
+          "pos": "F",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 217,
+          "name": "L. Martínez",
+          "number": 10,
+          "pos": "F",
+          "grid": "4:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 1854,
+          "name": "J. Correa",
+          "number": 11,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 866,
+          "name": "J. Cuadrado",
+          "number": 17,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 31173,
+          "name": "D. Frattesi",
+          "number": 16,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 30422,
+          "name": "R. Gosens",
+          "number": 8,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 275776,
+          "name": "K. Asllani",
+          "number": 21,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 194,
+          "name": "S. de Vrij",
+          "number": 6,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 24953,
+          "name": "Y. Aurel Bisseck",
+          "number": 31,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 215,
+          "name": "S. Esposito",
+          "number": 30,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 30535,
+          "name": "S. Sensi",
+          "number": 5,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 383001,
+          "name": "G. Stabile",
+          "number": 44,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 25353,
+          "name": "V. Lazaro",
+          "number": 19,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 322630,
+          "name": "G. Fabbian",
+          "number": 14,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 342230,
+          "name": "A. Stanković",
+          "number": 50,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 91488,
+          "name": "R. Di Gennaro",
+          "number": 12,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 336707,
+          "name": "A. Calligaris",
+          "number": 40,
+          "pos": "G",
+          "grid": null
+        }
+      }
+    ]
+  }
+]

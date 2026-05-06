@@ -1,0 +1,519 @@
+[
+  {
+    "team": {
+      "id": 20826,
+      "name": "Al-Hilal & Al-Nassr Stars",
+      "logo": "https://media.api-sports.io/football/teams/20826.png",
+      "colors": {
+        "player": {
+          "primary": "fbff00",
+          "number": "222226",
+          "border": "fbff00"
+        },
+        "goalkeeper": {
+          "primary": "d4ff00",
+          "number": "222226",
+          "border": "d4ff00"
+        }
+      }
+    },
+    "formation": "4-2-2-2",
+    "startXI": [
+      {
+        "player": {
+          "id": 44411,
+          "name": "Mohammed Al-Owais",
+          "number": 21,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": null,
+          "name": "Sultan Abdullah Al Ghanam",
+          "number": 2,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 32851,
+          "name": "Hyun Soo Jang",
+          "number": 20,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 44332,
+          "name": "Ali Al-Boleahi",
+          "number": 5,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 44594,
+          "name": "Saud Abdulhamid",
+          "number": 66,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 44315,
+          "name": "Abdullah Alkhaibari",
+          "number": 17,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 1909,
+          "name": "Luiz Gustavo",
+          "number": 18,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 44340,
+          "name": "Salem Al-Dawsari",
+          "number": 29,
+          "pos": "M",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 50886,
+          "name": "Gonzalo Martinez",
+          "number": 10,
+          "pos": "M",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 393,
+          "name": "Moussa Marega",
+          "number": 11,
+          "pos": "F",
+          "grid": "5:2"
+        }
+      },
+      {
+        "player": {
+          "id": 874,
+          "name": "Cristiano Ronaldo",
+          "number": 7,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 44589,
+          "name": "Amin Al-Bukhari",
+          "number": 1,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 22002,
+          "name": "Ghislain Konan",
+          "number": 3,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44475,
+          "name": "Abdulelah Al-Amri",
+          "number": 4,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44684,
+          "name": "Khalifah Aldawsari",
+          "number": 16,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44507,
+          "name": "Ali Al-Oujami",
+          "number": 78,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44303,
+          "name": "Abdullah Madu",
+          "number": 99,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 2488,
+          "name": "Gustavo Cuéllar",
+          "number": 6,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44350,
+          "name": "Abdullah Otayf",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44692,
+          "name": "Sami Al-Najei",
+          "number": 14,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 2426,
+          "name": "André Carrillo",
+          "number": 19,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 44349,
+          "name": "Mohamed Kanno",
+          "number": 28,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": null,
+          "name": "Musab Al-Juwayr",
+          "number": 43,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 12724,
+          "name": "Anderson Talisca",
+          "number": 94,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 25618,
+          "name": "Matheus Pereira",
+          "number": 15,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 12975,
+          "name": "Odion Ighalo",
+          "number": 9,
+          "pos": "F",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": 0,
+      "name": null,
+      "photo": null
+    }
+  },
+  {
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "colors": {
+        "player": {
+          "primary": "000066",
+          "number": "ffffff",
+          "border": "000066"
+        },
+        "goalkeeper": {
+          "primary": "66cc00",
+          "number": "ffffff",
+          "border": "66cc00"
+        }
+      }
+    },
+    "formation": "4-3-1-2",
+    "startXI": [
+      {
+        "player": {
+          "id": 731,
+          "name": "Keylor Navas",
+          "number": 1,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 9,
+          "name": "Achraf Hakimi",
+          "number": 2,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 738,
+          "name": "Sergio Ramos",
+          "number": 4,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 257,
+          "name": "Marquinhos",
+          "number": 5,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 258,
+          "name": "Juan Bernat",
+          "number": 14,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 328,
+          "name": "Fabián Ruiz",
+          "number": 12,
+          "pos": "M",
+          "grid": "3:3"
+        }
+      },
+      {
+        "player": {
+          "id": 513,
+          "name": "Renato Sanches",
+          "number": 18,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 930,
+          "name": "Carlos Soler",
+          "number": 10,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 154,
+          "name": "Lionel Messi",
+          "number": 30,
+          "pos": "F",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 278,
+          "name": "Kylian Mbappé",
+          "number": 7,
+          "pos": "F",
+          "grid": "5:2"
+        }
+      },
+      {
+        "player": {
+          "id": 276,
+          "name": "Neymar",
+          "number": 10,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 19014,
+          "name": "Sergio Rico",
+          "number": 16,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 20568,
+          "name": "Alexandre Letellier",
+          "number": 20,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 1622,
+          "name": "Gianluigi Donnarumma",
+          "number": 99,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 268571,
+          "name": "El Chadaille Bitshiabu",
+          "number": 4,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 162067,
+          "name": "Timothée Pembélé",
+          "number": 22,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 263482,
+          "name": "Nuno Mendes",
+          "number": 25,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 262,
+          "name": "Presnel Kimpembe",
+          "number": 3,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 310196,
+          "name": "Ismael Gharbi",
+          "number": 7,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 336561,
+          "name": "Ayman Kari",
+          "number": 13,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 128384,
+          "name": "Vitinha",
+          "number": 6,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 381,
+          "name": "Danilo Pereira",
+          "number": 15,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 336657,
+          "name": "Warren Zaïre-Emery",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 174565,
+          "name": "Hugo Ekitiké",
+          "number": 9,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 386275,
+          "name": "Ilyes Housni",
+          "number": 14,
+          "pos": "F",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": 36,
+      "name": "C. Galtier",
+      "photo": "https://media.api-sports.io/football/coachs/36.png"
+    }
+  }
+]
