@@ -1,6 +1,6 @@
 // frontend/src/api/api.js
 
-const BASE_URL = "http://localhost:8000/api";
+const BASE_URL = "https://aifotball-production.up.railway.app/api";
 
 export const api = {
 
