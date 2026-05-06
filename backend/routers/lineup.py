@@ -17,7 +17,7 @@ router=APIRouter()
 
 MONGO_URI=os.getenv("MONGO_URI","mongodb://localhost:27017")
 
-BASE_DIR = os.path.join(os.path.dirname(__file__), "../..")
+BASE_DIR = os.path.join(os.path.dirname(__file__), "..")
 
 def load_model():
     with open(os.path.join(BASE_DIR, "models/lineup_model.pkl"), "rb") as f:

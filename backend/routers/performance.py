@@ -22,7 +22,7 @@ def load_players():
     return pd.DataFrame(list(db["players"].find({}, {"_id": 0})))
 
 
-BASE_DIR = os.path.join(os.path.dirname(__file__), "../..")
+BASE_DIR = os.path.join(os.path.dirname(__file__), "..")
 
 def load_model():
     with open(os.path.join(BASE_DIR, "models/performance_model.pkl"), "rb") as f:
