@@ -298,6 +298,44 @@
   font-size: 0.95rem;
 }
 
+/* ── RESPONSIVE TABLE SCROLL ── */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-responsive::-webkit-scrollbar {
+  height: 4px;
+}
+
+.table-responsive::-webkit-scrollbar-track {
+  background: #1f2937;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+  background: #00d4aa;
+  border-radius: 2px;
+}
+
+/* ── RESPONSIVE CHART ── */
+.chart-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.chart-responsive::-webkit-scrollbar {
+  height: 4px;
+}
+
+.chart-responsive::-webkit-scrollbar-track {
+  background: #1f2937;
+}
+
+.chart-responsive::-webkit-scrollbar-thumb {
+  background: #00d4aa;
+  border-radius: 2px;
+}
+
 @media (max-width: 768px) {
   .page-filters-grid.cols-2,
   .page-filters-grid.cols-3 { grid-template-columns: 1fr; }

@@ -13,7 +13,7 @@ function PassNetwork() {
 
   const posColor = {
     Goalkeeper: '#f59e0b', Defender: '#60a5fa',
-    Midfielder: '#00d4aa', Forward:  '#f87171', Attacker: '#f87171'
+    Midfielder: '#00d4aa', Forward:  '#f87171', Attacker: '#687085'
   };
 
   useEffect(() => {

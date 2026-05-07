@@ -93,6 +93,7 @@ function Tactical() {
 
           <div className="page-table-card" style={{ marginBottom: '20px' }}>
             <div className="page-table-header">Comparaison des Formations</div>
+            <div className="table-responsive">
             <table className="page-table">
               <thead><tr><th>Formation</th><th>TacticalFit</th><th>Statut</th></tr></thead>
               <tbody>
@@ -111,6 +112,7 @@ function Tactical() {
                   ))}
               </tbody>
             </table>
+            </div>
           </div>
 
           <div className="page-grid-2">

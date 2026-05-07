@@ -124,18 +124,20 @@ function Simulation() {
                   ? `${team} est favori`
                   : `${opponent} est favori`}
               </div>
+              <div className="chart-responsive">
               <BarChart width={500} height={280} data={chartData}
                 margin={{ top: 10, right: 20, bottom: 10, left: 20 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#1f2937" />
                 <XAxis dataKey="name" stroke="#6b7280" fontSize={12} />
                 <YAxis stroke="#6b7280" fontSize={12} tickFormatter={v => `${v}%`} />
                 <Tooltip formatter={v => `${v}%`}
-                  contentStyle={{ backgroundColor: '#111827',
+                  contentStyle={{ backgroundColor: '#154ec9',
                     border: '1px solid #374151', borderRadius: '8px' }} />
                 <Bar dataKey="value" radius={[6, 6, 0, 0]}>
                   {chartData.map((e, i) => <Cell key={i} fill={e.color} />)}
                 </Bar>
               </BarChart>
+              </div>
             </div>
           </div>
         </div>

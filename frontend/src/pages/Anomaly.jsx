@@ -118,6 +118,7 @@ function Anomaly() {
                 ))}
               </div>
             </div>
+            <div className="table-responsive">
             <table className="page-table">
               <thead>
                 <tr>
@@ -146,6 +147,7 @@ function Anomaly() {
                 ))}
               </tbody>
             </table>
+            </div>
           </div>
         </div>
       )}

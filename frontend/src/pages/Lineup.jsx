@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { api } from '../api/api';
 import './Lineup.css';
+import './Pages.css';
 
 function Lineup() {
   const [leagues, setLeagues]       = useState([]);
@@ -57,6 +58,7 @@ function Lineup() {
       <div className={`lineup-table-header ${isStarter ? 'starters' : 'subs'}`}>
         {isStarter ? 'Titulaires — 11 joueurs' : 'Remplaçants'}
       </div>
+      <div className="table-responsive">
       <table className="lineup-table">
         <thead>
           <tr>
@@ -88,6 +90,7 @@ function Lineup() {
           })}
         </tbody>
       </table>
+      </div>
     </div>
   );
 

@@ -109,6 +109,7 @@ function Transfer() {
             </button>
             {error1 && <div className="page-error">{error1}</div>}
             {similar && (
+              <div className="table-responsive">
               <table className="page-table" style={{ marginTop: '16px' }}>
                 <thead><tr><th>Joueur</th><th>Position</th><th>Similarité</th><th>Rating</th></tr></thead>
                 <tbody>
@@ -122,6 +123,7 @@ function Transfer() {
                   ))}
                 </tbody>
               </table>
+              </div>
             )}
           </div>
         </div>
@@ -165,7 +167,8 @@ function Transfer() {
             {recommended && (
               recommended.players.length === 0
                 ? <div className="page-error" style={{ marginTop: '12px' }}>Aucun joueur trouvé.</div>
-                : <table className="page-table" style={{ marginTop: '16px' }}>
+                : <div className="table-responsive">
+                  <table className="page-table" style={{ marginTop: '16px' }}>
                     <thead><tr><th>Joueur</th><th>Équipe</th><th>Rating</th><th>Valeur</th></tr></thead>
                     <tbody>
                       {recommended.players.map((p, i) => (
@@ -178,6 +181,7 @@ function Transfer() {
                       ))}
                     </tbody>
                   </table>
+                  </div>
             )}
           </div>
         </div>
