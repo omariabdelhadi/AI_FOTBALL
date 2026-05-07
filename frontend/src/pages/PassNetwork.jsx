@@ -13,7 +13,7 @@ function PassNetwork() {
 
   const posColor = {
     Goalkeeper: '#f59e0b', Defender: '#60a5fa',
-    Midfielder: '#00d4aa', Attacker:  '#f87171'
+    Midfielder: '#00d4aa', Attacker: '#f87171',Forward:'#f87171'
   };
 
   useEffect(() => {
@@ -46,7 +46,7 @@ function PassNetwork() {
 
   const renderPitch = () => {
     if (!result) return null;
-    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Attacker: 18, Attacker: 18 };
+    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Attacker: 18, Forward: 18 };
     const nodes = result.nodes.slice(0, 11);
     const posGroups = {};
     nodes.forEach(n => {
@@ -146,7 +146,7 @@ function PassNetwork() {
               <div className="page-table-header">{result.team} — Terrain</div>
               <div style={{ padding: '16px' }}>
                 <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap', marginBottom: '12px' }}>
-                  {Object.entries(posColor).map(([pos, color]) => (
+                  {Object.entries(posColor).filter(([pos]) => pos !== 'Forward').map(([pos, color]) => (
                     <span key={pos} style={{ color, fontSize: '0.8rem', fontWeight: 500 }}>
                       ● {pos}
                     </span>
