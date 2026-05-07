@@ -13,7 +13,7 @@ function PassNetwork() {
 
   const posColor = {
     Goalkeeper: '#f59e0b', Defender: '#60a5fa',
-    Midfielder: '#00d4aa', Forward:  '#f87171', Attacker: '#687085'
+    Midfielder: '#00d4aa', Attacker:  '#f87171'
   };
 
   useEffect(() => {
@@ -46,7 +46,7 @@ function PassNetwork() {
 
   const renderPitch = () => {
     if (!result) return null;
-    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Forward: 18, Attacker: 18 };
+    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Attacker: 18 };
     const nodes = result.nodes.slice(0, 11);
     const posGroups = {};
     nodes.forEach(n => {
