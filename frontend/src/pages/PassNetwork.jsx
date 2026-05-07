@@ -46,7 +46,7 @@ function PassNetwork() {
 
   const renderPitch = () => {
     if (!result) return null;
-    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Attacker: 18 };
+    const posY = { Goalkeeper: 85, Defender: 65, Midfielder: 40, Attacker: 18, Attacker: 18 };
     const nodes = result.nodes.slice(0, 11);
     const posGroups = {};
     nodes.forEach(n => {
