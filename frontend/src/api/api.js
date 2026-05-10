@@ -49,4 +49,10 @@ export const api = {
 
   analyzePassNetwork: (team) =>
     fetch(`${BASE_URL}/pass_network/analyze?team=${encodeURIComponent(team)}`).then(r=>r.json()),
+  // ── COMPARISON ───────────────────────────
+  getComparisonPlayers: (league, team) =>
+    fetch(`${BASE_URL}/comparison/players?league=${encodeURIComponent(league)}&team=${encodeURIComponent(team)}`).then(r => r.json()),
+
+  comparePlayers: (player1, player2) =>
+    fetch(`${BASE_URL}/comparison/compare?player1=${encodeURIComponent(player1)}&player2=${encodeURIComponent(player2)}`).then(r => r.json()),
 };

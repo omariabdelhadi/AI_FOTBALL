@@ -9,6 +9,7 @@ from routers.anomaly     import router as anomaly_router
 from routers.transfer    import router as transfer_router
 from routers.tactical    import router as tactical_router
 from routers.pass_network import router as pass_network_router
+from routers.comparison import router as comparison_router
 
 app = FastAPI(
     title="SmartLineup API",
@@ -39,6 +40,7 @@ app.include_router(anomaly_router,     prefix="/api/anomaly",     tags=["Anomali
 app.include_router(transfer_router,    prefix="/api/transfer",    tags=["Transfert"])
 app.include_router(tactical_router,    prefix="/api/tactical",    tags=["Tactique"])
 app.include_router(pass_network_router,    prefix="/api/pass_network",    tags=["Pass Network"])
+app.include_router(comparison_router, prefix="/api/comparison", tags=["Comparaison"])
 
 
 # ─────────────────────────────────────────

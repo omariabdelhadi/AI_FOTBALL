@@ -13,6 +13,7 @@ const links = [
   { path: '/passnetwork', label: 'Réseau de Passes' },
   { path: '/transfer',    label: 'Transferts' },
   { path: '/tactical',    label: 'Tactique' },
+  { path: '/comparison', label: 'Comparaison' },
 ];
 
 function Navbar() {
